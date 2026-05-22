@@ -3,8 +3,8 @@
 
 ### macOS 版本
 
-1. 下載 piano.dmg 檔案。
-2. 點兩下開啟 piano.dmg。
+1. 下載 `piano.dmg` 檔案。
+2. 點兩下開啟 `piano.dmg`。
 3. 將 `piano.app` 拖曳到「應用程式」資料夾，或直接開啟。
 4. 如果 macOS 顯示「無法打開，因為來自未識別的開發者」，請到：
 
@@ -15,5 +15,7 @@
 ### 注意事項
 
 - 此版本僅適用於 macOS。
-- 若使用 Windows 或 Linux，請下載原始碼，並使用 Qt Creator 重新建置專案。
-- 若從原始碼執行，請確認音檔與資源檔維持原本的資料夾結構。
+
+## 下載連結
+https://drive.google.com/file/d/1wEcU1DDmrUOamyw4E7zXfAMY6c8qoMrZ/view?usp=drive_link
+
