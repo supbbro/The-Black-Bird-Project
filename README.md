@@ -8,7 +8,7 @@
 3. 本作品為學生課程專案，尚未經 Apple Developer 簽章。  
 若下載後 macOS 顯示「已損毀」或「無法打開」，請在 Terminal 執行：
 
- `xattr -cr "/path/to/piano.dmg"`
+`xattr -cr "/path/to/piano.dmg"`
 
 終端機打完指令再至資料夾重新點擊檔案，即可成功開啟。
 4. 如果 macOS 顯示「無法打開，因為來自未識別的開發者」，請到：
